@@ -1,0 +1,13 @@
+Leia nota1 
+Leia nota2
+Leia nota3
+
+soma = nota1 + nota2 + nota3
+
+media = soma /3
+
+se media >= 7 entao
+escreva "Aprovado"
+se nao
+escreva "reprovado"
+
